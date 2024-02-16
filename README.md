@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mathias-Sommer
 - 👀 I’m interested in Networking, Hobby Programming(C#, Python and Powershell)
 - 🌱 I’m currently learning HTML, JavaScript and CSS
-- 📫 How to reach me LinkedIn https://www.linkedin.com/in/mathias-sommer-669674212/
+- 📫 Reach me @ LinkedIn https://www.linkedin.com/in/mathias-sommer-669674212/
